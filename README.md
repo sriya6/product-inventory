@@ -1,5 +1,5 @@
 # Product Inventory
-`
+
 Frontend: `HTML, CSS, Bootstrap`
 Database: `SQLite`
 Backend: `Python- Django, Rest framework`
