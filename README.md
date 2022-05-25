@@ -1,8 +1,8 @@
 # Product Inventory
-
-Frontend: HTML, CSS, Bootstrap
-Database: SQLite
-Backend: Django, Rest framework
+`
+Frontend: `HTML, CSS, Bootstrap`
+Database: `SQLite`
+Backend: `Django, Rest framework`
 
 **Simple Dashboard for admin user**
 URL: `https://domain/products/`
