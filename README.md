@@ -4,8 +4,10 @@ Frontend: HTML, CSS, Bootstrap
 Database: SQLite
 Backend: Django, Rest framework
 
-**Simple Dashboard**
+**Simple Dashboard for admin user**
 URL: `https://domain/products/`
+![image](https://user-images.githubusercontent.com/47209915/170275176-b62ae227-1042-4169-9488-9f13c6d08407.png)
+
 
 **API endpoints**
 
